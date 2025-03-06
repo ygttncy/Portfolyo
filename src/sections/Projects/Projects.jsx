@@ -34,7 +34,7 @@ function Projects() {
         />
           <ProjectCard
           src={Weatherapp}
-          link="https://github.com/ygttncy/weater-app"
+          link="https://conditionweather.netlify.app/"
           h3="Weather App"
           p="Weather App"
         />
