@@ -1,7 +1,7 @@
 import styles from './CertificatesStyles.module.css';
 import certificate1 from '../../assets/Advanced.jpg';
 import certificate2 from '../../assets/Beginner.jpg';
-import certificate3 from '../../assets/İntermediate.jpg';
+import certificate3 from '../../assets/Intermediate.jpg';
 
 function Certificates() {
   return (
