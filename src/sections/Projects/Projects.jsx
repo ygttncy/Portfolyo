@@ -52,7 +52,7 @@ function Projects() {
         />
          <ProjectCard
           src={MovieRecomender}
-          link="https://github.com/ygttncy/MovieRecomender"
+          link="https://recomendermovie.netlify.app/"
           h3="MovieRecomender"
           p="MovieRecomender"
         />
