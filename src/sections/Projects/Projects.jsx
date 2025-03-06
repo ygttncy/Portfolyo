@@ -7,6 +7,7 @@ import  myblog from '../../assets/myblog.webp';
 import  Furniro from '../../assets/furniro.webp';
 import  Quizapp from '../../assets/quizapp.webp';
 import ProjectCard from '../../common/ProjectCard';
+import MovieRecomender from "../../assets/MovieRecomender.webp";
 
 function Projects() {
   return (
@@ -48,6 +49,12 @@ function Projects() {
           link="https://github.com/ygttncy/Furniro"
           h3="Furniro"
           p="Furniro"
+        />
+         <ProjectCard
+          src={MovieRecomender}
+          link="https://github.com/ygttncy/MovieRecomender"
+          h3="MovieRecomender"
+          p="MovieRecomender"
         />
       </div>
     </section>
