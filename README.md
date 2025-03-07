@@ -6,7 +6,7 @@ Welcome to my personal portfolio! 🚀 This is where I showcase my projects, ski
 [codebyyigit.netlify.app](https://codebyyigit.netlify.app)
 
 ## 🛠 Tech Stack
-- **Frontend:** React, Vite, SCSS, Tailwind CSS
+- **Frontend:** React, Vite, SCSS 
 - **Backend:** Java (Beginner)
 - **Tools:** Git, GitHub, Figma, Adobe Photoshop
 
